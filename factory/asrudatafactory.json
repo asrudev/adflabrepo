@@ -1,0 +1,9 @@
+{
+	"name": "asrudatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ca1f40c2-8293-47e4-8140-7927f7fcb9c5",
+		"tenantId": "4e57dff7-52a7-40e7-8e43-55f6e830cebb"
+	}
+}

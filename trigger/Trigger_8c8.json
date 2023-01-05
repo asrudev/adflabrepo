@@ -1,0 +1,17 @@
+{
+	"name": "Trigger_8c8",
+	"properties": {
+		"annotations": [],
+		"runtimeState": "Stopped",
+		"pipelines": [],
+		"type": "ScheduleTrigger",
+		"typeProperties": {
+			"recurrence": {
+				"frequency": "Hour",
+				"interval": 1,
+				"startTime": "2023-01-04T09:46:00Z",
+				"timeZone": "UTC"
+			}
+		}
+	}
+}
